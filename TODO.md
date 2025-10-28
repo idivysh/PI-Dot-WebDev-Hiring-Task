@@ -1,0 +1,6 @@
+- [ ] Import useState from React in components/sections/form.tsx
+- [ ] Add state variables for firstName, lastName, email, subject, message
+- [ ] Update each Input component to be controlled with value and onChange
+- [ ] Fix input types: subject to text, message to text
+- [ ] Modify handleSubmit to log the form data
+- [ ] Test the form to ensure inputs are captured
