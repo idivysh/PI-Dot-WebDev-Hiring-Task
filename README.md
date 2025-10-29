@@ -16,8 +16,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# Project Name
-
 This is my project deployed live on Vercel.
 
 🔗 **Live Demo:** [Click Here](https://pi-dot-web-dev-hiring-task.vercel.app/)
